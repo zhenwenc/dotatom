@@ -1,0 +1,3 @@
+[submodule "inits/atomic-emacs"]
+	path = inits/atomic-emacs
+	url = git@github.com:zhenwenc/atomic-emacs.git
