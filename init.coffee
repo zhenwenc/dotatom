@@ -10,5 +10,3 @@
 #   editor.onDidSave ->
 #     console.log "Saved! #{editor.getPath()}"
 
-# Import my atomic-emacs inits
-emacs = require './inits/atomic-emacs/lib/atomic-emacs.coffee'
