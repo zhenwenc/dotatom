@@ -7,3 +7,9 @@
 [submodule "packages/linter-eslint"]
 	path = packages/linter-eslint
 	url = https://github.com/AtomLinter/linter-eslint.git
+[submodule "packages/color-picker"]
+	path = packages/color-picker
+	url = https://github.com/thomaslindstrom/color-picker.git
+[submodule "packages/docblockr"]
+	path = packages/docblockr
+	url = https://github.com/nikhilkalige/docblockr.git
