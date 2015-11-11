@@ -8,3 +8,4 @@
     invisibles: {}
   core: {}
   "tree-view": {}
+  linter: {}

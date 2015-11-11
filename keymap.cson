@@ -35,3 +35,7 @@
   'cmd-left': 'editor:move-to-beginning-of-line'
   'cmd-right': 'editor:move-to-end-of-screen-line'
   'cmd-backspace': 'editor:delete-to-beginning-of-line'
+  'ctrl-shift-s': 'project-find:show'
+
+'.platform-darwin atom-text-editor .placeholder-text':
+  'ctrl-s': 'find-and-replace:find-next'

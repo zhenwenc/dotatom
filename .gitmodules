@@ -1,3 +1,9 @@
 [submodule "packages/atomic-emacs"]
 	path = packages/atomic-emacs
 	url = git@github.com:zhenwenc/atomic-emacs.git
+[submodule "packages/linter"]
+	path = packages/linter
+	url = https://github.com/atom-community/linter.git
+[submodule "packages/linter-eslint"]
+	path = packages/linter-eslint
+	url = https://github.com/AtomLinter/linter-eslint.git
