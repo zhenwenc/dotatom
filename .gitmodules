@@ -13,3 +13,6 @@
 [submodule "packages/docblockr"]
 	path = packages/docblockr
 	url = https://github.com/nikhilkalige/docblockr.git
+[submodule "packages/atom-ternjs"]
+	path = packages/atom-ternjs
+	url = https://github.com/tststs/atom-ternjs.git
