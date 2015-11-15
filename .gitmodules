@@ -16,3 +16,6 @@
 [submodule "packages/atom-ternjs"]
 	path = packages/atom-ternjs
 	url = https://github.com/tststs/atom-ternjs.git
+[submodule "packages/language-scala"]
+	path = packages/language-scala
+	url = https://github.com/atom-community/language-scala.git

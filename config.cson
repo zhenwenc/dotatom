@@ -4,8 +4,9 @@
   welcome:
     showOnStartup: false
   editor:
-    fontSize: 13
+    fontSize: 12
     invisibles: {}
   core: {}
   "tree-view": {}
-  linter: {}
+  linter:
+    errorPanelHeight: 24
