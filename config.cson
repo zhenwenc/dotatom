@@ -7,8 +7,39 @@
     fontSize: 12
     invisibles: {}
     preferredLineLength: 120
-  core: {}
+  core:
+    disabledPackages: [
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "emmet"
+      "atom-ternjs"
+    ]
   "tree-view":
     hideVcsIgnoredFiles: true
   linter:
     errorPanelHeight: 24
+  "atom-beautify":
+    _analyticsUserId: "3598f5ac-f269-4901-9e0b-4d8ff31b7778"

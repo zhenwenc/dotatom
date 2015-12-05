@@ -1,0 +1,10 @@
+atom-alignment@0.12.1
+atom-beautify@0.28.19
+atom-ternjs@0.9.1
+color-picker@2.0.13
+docblockr@0.7.3
+git-plus@5.6.6
+language-scala@1.1.4
+linter@1.11.3
+linter-eslint@5.2.4
+
