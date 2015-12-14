@@ -43,3 +43,5 @@
     errorPanelHeight: 24
   "atom-beautify":
     _analyticsUserId: "3598f5ac-f269-4901-9e0b-4d8ff31b7778"
+  "highlight-line":
+    enableBackgroundColor: false
